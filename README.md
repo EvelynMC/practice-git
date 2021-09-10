@@ -1,1 +1,1 @@
-# intro-python
+# practica git básico
